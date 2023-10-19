@@ -3,6 +3,7 @@ build
 out
 
 # Ignore Next.js cache
+.next
 .next/cache
 .next/server
 .next/static
